@@ -1,4 +1,4 @@
 
-# Class Activities
+# Activities
 
 --------------------------------------
